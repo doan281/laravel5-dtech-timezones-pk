@@ -1,0 +1,20 @@
+{
+    "name": "dtech-timezones/timezones",
+    "description": "Show time zone",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "doanpv",
+            "email": "doan281@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "classmap": [],
+        "psr-4": {
+            "DtechTimezones\\Timezones\\": "src/"
+        },
+        "files": []
+    }
+}
